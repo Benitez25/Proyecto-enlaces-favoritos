@@ -1,0 +1,19 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "description": "Proyecto de enlaces favoritos con Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "benitez25",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.2.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "timeago.js": "^4.0.2"
+  }
+}

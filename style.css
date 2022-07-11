@@ -1,0 +1,24 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(./font/Poppins-Light.ttf);
+}
+
+*{
+    font-family: myFirstFont;
+}
+.card-bodyModify{
+    border: none;
+    border-radius: 0.4rem;
+}
+
+.ocultar{
+    visibility: hidden;
+}
+
+.visible{
+    visibility: visible;
+}
+
+.addLink:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
